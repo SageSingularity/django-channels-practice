@@ -1,2 +1,2 @@
-# django-channels-practice
+# Django Channels Practice
  Practicing with Django Channels.
